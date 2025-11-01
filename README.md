@@ -41,7 +41,7 @@ python app.py
 1. Lege eine Datei `config.py` im Projektverzeichnis an.
 2. Trage deinen API-Key ein:
 ```python
-VT_API_KEY = "DEIN_API_KEY_HIER"
+VT_API_KEY = "YOUR_API_KEY_HERE"
 ```
 3. Wenn kein Key vorhanden ist, arbeitet das Tool automatisch offline.
 
