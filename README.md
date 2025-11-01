@@ -46,7 +46,7 @@ VT_API_KEY = "YOUR_API_KEY_HERE"
 3. Wenn kein Key vorhanden ist, arbeitet das Tool automatisch offline.
 
 ### 📜 Lizenz
-Dieses Projekt steht unter der **MIT-Lizenz**.
+Dieses Projekt steht unter der [LICENSE](LICENSE).
 
 <br>
 
@@ -91,7 +91,7 @@ VT_API_KEY = "YOUR_API_KEY_HERE"
 3. If no key is provided, the tool automatically operates in offline mode.
 
 ### 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the [LICENSE](LICENSE).
 
 ---
 © 2025 – Developed with precision and security in mind.
