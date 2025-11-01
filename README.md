@@ -1,4 +1,5 @@
-# 🌐 URL Reputation Analyzer
+|[![URL Reputation Analyzer](https://github.com/bylickilabs/URL-Reputation-Analyzer/actions/workflows/python-app.yml/badge.svg)](https://github.com/bylickilabs/URL-Reputation-Analyzer/actions/workflows/python-app.yml)|
+|---|
 
 |<img width="1280" height="640" alt="logo" src="https://github.com/user-attachments/assets/c296be1b-1bcf-41e6-8b9c-ac2f61f1f39a" />|
 |---|
